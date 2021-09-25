@@ -1,0 +1,22 @@
+{
+  "name": "getmotivated",
+  "version": "1.0.0",
+  "description": "Get motivational quotes at your command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anirudha S.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "cowsay": "^1.5.0",
+    "dotenv": "^10.0.0",
+    "meow": "^10.1.1",
+    "mongoose": "^6.0.7",
+    "nodemon": "^2.0.12",
+    "yosay": "^2.0.2"
+  }
+}
