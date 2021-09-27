@@ -1,8 +1,8 @@
-#What is this?
+##What is this?
 
 NPM Package that gets motivational quotes on your command line!
 
-#Installation
+##Installation
 
 `npm i motivationaquotes`
 
@@ -12,4 +12,4 @@ To run the package,
 
 when offline, 
 
-'$quoter --offline`
+`$quoter --offline`
