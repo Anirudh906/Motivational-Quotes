@@ -36,7 +36,7 @@ Follow the steps to get the package
 
 * npm
   ```
-  npm install motivationalquotes
+  npm install motivater
   ```
 
 
