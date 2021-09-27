@@ -30,7 +30,7 @@ A NPM Package that brings Motivational Quotes on your command-line !
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Follow the steps to get he package
+Follow the steps to get the package
 
 ### Prerequisites
 
@@ -47,12 +47,13 @@ When online,
 ```
 quoter 
 ```
+<img src="images/Screenshot (269).png" >
 
 When offline, 
 ```
 quoter --offline
 ```
-
+<img src="images/Screenshot (271).png" >
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
