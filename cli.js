@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-var quoter = require("./index");
+var quoter = require("./index.js");
 
 var arg = process.argv[2];
 
