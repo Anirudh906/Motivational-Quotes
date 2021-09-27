@@ -30,7 +30,7 @@ A NPM Package that brings Motivational Quotes on your command-line !
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Follow the steps to get he package
+Follow the steps to get the package
 
 ### Prerequisites
 
