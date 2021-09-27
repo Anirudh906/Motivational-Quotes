@@ -96,7 +96,7 @@ const GetQuotes = (Online) => {
        
           })
           .catch((err) => {
-            console.log(err);
+            //console.log(err);
             const idx = randomIdx(quotesDB.length - 1);
             print(quotesDB[idx]["quote"], quotesDB[idx]["author"]);
           });
